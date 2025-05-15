@@ -1,17 +1,17 @@
 [
     {
         "p_rel_URL" : "praveenGIT27/Azure-Data-Engineering/refs/heads/main/datasets/AdventureWorks_Product_Categories.csv",
-        "P_sink_folder" : "AdventureWorks_Product_Categories",
+        "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
     {
         "p_rel_URL" : "praveenGIT27/Azure-Data-Engineering/refs/heads/main/datasets/AdventureWorks_Calendar.csv",
-        "P_sink_folder" : "AdventureWorks_Calendar",
+        "p_sink_folder" : "AdventureWorks_Calendar",
         "p_sink_file" : "AdventureWorks_Calendar.csv"
     },
     {
         "p_rel_URL" : "praveenGIT27/Azure-Data-Engineering/refs/heads/main/datasets/AdventureWorks_Customers.csv",
-        "P_sink_folder" : "AdventureWorks_Customers",
+        "p_sink_folder" : "AdventureWorks_Customers",
         "p_sink_file" : "AdventureWorks_Customers.csv"
     },
     {
